@@ -28,6 +28,6 @@ jobs:
 
       - name: Validate docker.config.yml against remote schema
         run: |
-          jsonschema-cli \
+          check-jsonschema \
             --schemafile https://raw.githubusercontent.com/geopython/pygeoapi/refs/heads/master/pygeoapi/schemas/config/pygeoapi-config-0.x.yml \
             docker.config.yml
