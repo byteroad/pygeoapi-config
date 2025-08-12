@@ -6,6 +6,7 @@ This repository holds the [configuration file of pygeoapi](./docker.config.yml).
 
 ## Quick Start :rocket:
 
+TODO: add fork
 1. Clone this repository with: `git clone https://github.com/byteroad/pygeoapi-config.git`, or using a Git tool.
 2. Update the file using a text editor, or using the [`pygeoapi_config` QGIS plugin](https://github.com/byteroad/pygeoapi_config).
 3. Commit the updated file to this repository. This will trigger the [automated tests](https://github.com/byteroad/pygeoapi-config/actions/) and notify reviewers, for manual review.
