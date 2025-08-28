@@ -129,7 +129,7 @@ resources:
   ortos-irg:
     type: collection
     title: OrtoSat 30 cm - Portugal Continental - 2023 (Falsa Cor)
-    description: 'A cobertura OrtoSat2023 é uma  cobertura de ortoimagens obtidas a
+    description: 'A cobertura OrtoSat2023 é uma cobertura de ortoimagens obtidas a
       partir de imagens de satélite de muito grande resolução espacial adquirida durante
       o ano de 2023 sobre o território de Portugal continental. A cobertura é composta
       por um mosaico equalizado e ininterrupto de imagens de satélite ortorretificadas
